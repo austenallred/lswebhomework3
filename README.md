@@ -1,6 +1,6 @@
-#LambdaSchool Free Mini Bootcamp Homework 3
+# LambdaSchool Free Mini Bootcamp Homework 3 #
 
-##Task One##
+## Task One ##
 
 1. Fork this repository
 
@@ -23,7 +23,7 @@ I'm learning:
 
 4. Push it up to your own repository on Github (don't try to override the original).
 
-##Task Two##
+## Task Two ##
 
 1. Create a new repository on Github at github.com/yourusername/hellolambdaschool.
 
