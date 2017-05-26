@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Hodor
 
-I like to:
+I like to: Hold doors closed.
 
-I'm learning:
+I'm learning: to help people escape. 
 
 ```
 
