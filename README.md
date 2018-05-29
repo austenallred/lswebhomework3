@@ -1,5 +1,11 @@
 # LambdaSchool Free Mini Bootcamp Homework 3 #
 
+Edit a tweet in the Chrome browser
+
+![twittershot](https://user-images.githubusercontent.com/16841620/40675492-ec60028c-6345-11e8-84e5-cfa3b028c8bd.png)
+
+
+
 ## Task One ##
 
 1. Fork this repository
